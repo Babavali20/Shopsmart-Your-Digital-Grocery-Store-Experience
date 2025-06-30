@@ -216,16 +216,7 @@ Please note that this project is released with a [Contributor Code of Conduct](h
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 <!--Line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<!-- Added Team section -->
-## 👥 Team
-| ![Yuvraj Singh](https://avatars.githubusercontent.com/u/143984267?v=4&s=80) |
-|:--:|
-| **Yuvraj Singh** <br> <sub>Project Admin</sub> | 
-| [![LinkedIn](https://img.icons8.com/fluency/32/000000/linkedin.png)](https://www.linkedin.com/in/yuvrajsinghgmx/) |
-
-For any inquiries or feedback, please contact. Happy Contributing 🫡
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
 
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -235,4 +226,4 @@ For any inquiries or feedback, please contact. Happy Contributing 🫡
 Found a bug or have a feature request? Please open an issue.
 If you like the project, don't forget to give it a ⭐!
 
-**Crafted with ❤️  by Yuvraj Singh**
+**Crafted with ❤️  by babavali and team**
