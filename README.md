@@ -118,9 +118,9 @@ ShopSmart is a user-friendly and efficient shopping list app built with Kotlin a
 |--------------------------------|-------------------------------------|
 | ![Voice Input](./Assets/1.jpg) | ![Price Estimation](./Assets/4.jpg) |
 
-| Recommendations Screen         | Profile Screen                      |
+| Recommendations Screen         |             |
 |--------------------------------|-------------------------------------|
-| ![Voice Input](./Assets/5.jpg) | ![Price Estimation](./Assets/9.jpg) |
+| ![Voice |
 
 | Order Notifications Screen      |
 |---------------------------------|
